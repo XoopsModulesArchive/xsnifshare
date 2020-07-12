@@ -1,0 +1,4 @@
+Install this like any other module and then CONFIGURE it with
+the admin menu using the givin examples.
+
+If you do not have the protector module installed i dont recomend using this.
